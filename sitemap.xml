@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://www.jayspetbutter.com/index.html</loc>
+    <lastmod>2024-12-02</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>http://www.jayspetbutter.com/product.html</loc>
+    <lastmod>2024-12-02</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>http://www.jayspetbutter.com/diy.html</loc>
+    <lastmod>2024-12-02</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>http://www.jayspetbutter.com/contact.html</loc>
+    <lastmod>2024-12-02</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>http://www.jayspetbutter.com/about.html</loc>
+    <lastmod>2024-12-02</lastmod>
+    <priority>0.50</priority>
+  </url>
+</urlset>
